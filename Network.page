@@ -4,3 +4,6 @@ There are two separate wired networks in the residence:
 - The common network, composed of the wall plugs in the Great Hall, Device Lab & Conference Room, and the 'Christophe' wireless network.
 
 They are completely separate, and maintained by different people entirely.
+
+# Troubleshooting
+If the internet access on the Christophe wireless network breaks (this occurs often), take the white D-Link router below the TV and unplug/replug its power cable. If problems persist, or if the wired common network breaks, inform christophe.biocca@gmail.com
