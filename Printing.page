@@ -1,7 +1,7 @@
 Here's how you print for free around here:
 
 1. Connect to the 'Christophe' network (no password), or plug into the sockets in the great hall, device lab or conference room. Disconnect from any other networks.
-2. [http://192.168.0.100/print.htm](http://192.168.0.100/print.htm)
+2. [http://192.168.0.100/print.htm](http://192.168.0.100/print.htm). If this link doesn't work, you're probably not correctly connected (See [Network]()).
 3. Upload file, set settings. Always use PDF for file type for best results (others are spotty/will ruin your life).
 4. Input paper into large Xerox multifunction printer (top tray aptly named Tray 1) as needed.
 
