@@ -1,0 +1,30 @@
+Tools that will make the development of your startup easier:
+
+**CSS:**
+
+- [LESS](http://lesscss.org/) - makes CSS easier
+- [SASS](http://sass-lang.com/) - makes CSS easier
+
+**JavaScript:**
+
+- [CoffeeScript](http://coffeescript.org/) - complies into JS (much cleaner, less syntax)
+
+**MySQL:**
+
+- [Sequel Pro](http://www.sequelpro.com/) - for Mac with Amazon RDS MySQL servers
+
+**Node.js:**
+
+- [NVM](https://github.com/creationix/nvm) - swap the version of Node.js you are using quickly
+
+**Python:**
+
+- [VirtualEnv](http://pypi.python.org/pypi/virtualenv) - builds out Python environments
+- [PythonBrew](https://github.com/utahta/pythonbrew) - swap Python versions quickly
+- [PyCharm](http://www.jetbrains.com/pycharm/) - Python IDE (Django, Flask, etc.)
+
+**Ruby on Rails:**
+
+- [RVM](https://rvm.io/) - allows you to swap Ruby versions quickly
+- [Locale](http://www.localeapp.com/) - manages Rails translations
+- [RubyMine](http://www.jetbrains.com/ruby/) - Ruby IDE (Rails, Sinatra, etc.)
