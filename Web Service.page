@@ -1,0 +1,6 @@
+Tools that help startups monitor their web services:
+
+- [New Relic](http://newrelic.com/) - monitors the health and performance of web services
+- [Pingdom](https://www.pingdom.com/) - sends notifications of web service downtime
+- [PagerDuty](http://www.pagerduty.com/) - sends SMS notifications of web service downtime/errors
+- [Exceptional](http://www.exceptional.io/) - error/exception tracking
