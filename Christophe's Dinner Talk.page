@@ -1,0 +1,106 @@
+Summary for the talk I am giving Monday February 25th
+
+# Disclaimer
+This is the perspective of a not yet successful technical co-founder. Your mileage may vary.
+I've worked on many startups, some serious, some half baked.
+
+# Startups are Hard
+
+Unless you're also planning to win a Nobel, find a long-sought cure for some disease or lead a country, odds are building a successful company is the hardest thing you'll ever do in your life.
+
+## You can't do it on the side
+
+Not to diss anyone who's working on a startup while in school, but you just can't be nearly as productive if you have other things to think about.
+No velocity startup has really succeeded while the founders were still in school. Everyone either graduates before they can get serious, or they drop out because the early results are promising, and they essentially have no choice. (Pair, MappedIn, ...). I don't have a counter-example
+Velocity is great training for the real thing. And sometimes a velocity startup turns into a real one.
+
+## Long hours
+
+You will be spending 10-16 hours working on any given day. For that to work you need two things:
+
+- You need to enjoy most of what you'll be working on.
+- You need to make sure whatever else you want to do can fit in a few cramped hours in the rest of your schedule.
+- Startup weekend is a sprint / Real startup is a marathon. You need to set and keep a pace.
+
+## Don't burn out
+
+- It happens surprisingly quickly.
+- You can't really avoid working long hours.
+- [Marissa Mayer says it's about resentment, my personal experience supports that idea.](http://www.businessweek.com/articles/2012-04-12/how-to-avoid-burnout-marissa-mayer)
+- This can also be caused by disillusionment with the project you're working on.
+
+# Ideas are cheap, but you still need a good one
+
+We like to tell people that 'ideas are cheap' to avoid the culture of "Can't say anything until you sign this NDA." (This really happens with some people).
+
+What it doesn't mean is that you should just take an idea and run with it, hoping it's going to work out. A good idea is a necessary but not close to sufficient condition for success.
+
+## Your idea is probably not unique
+
+It's surprising just how much stuff has already been done (Computing Collective, the original idea of the Crouton labs team, had been done before).
+
+### Don't worry too much about other attempts, unless they're already succeeding
+
+The loyalty card stamp project I worked on was pretty much DOA when we discovered that [Belly](https://bellycard.com/) was already growing in Chicago.
+
+## Talking to others about it is a good way to realize it sucks
+
+Take criticism to heart. Don't abandon an idea, but if you legitimately can't address the criticism, then you're probably in trouble. Pitching a startup idea isn't a debate, you don't care about convincing the other person (most of the time), you want them to poke every hole in the idea that they can.
+Sometime you can't tell if the criticism is valid or not until you have a prototype in the hands of real users.
+
+# Your team is the most important factor in success.
+
+## Don't be a lone programmer
+
+I've seen too many people be the only coder on a team of 4 this is a recipe for miserable failure. A lot of the development effort occurs up front, and this means that business people (especially the less experienced ones) don't have a lot to do until they have a basic prototype.
+The smaller the proportion of coders, the longer it takes to ship that initial prototype, and the more "Is it done yet?" queries you have to deal with, compounding the problem.
+
+## Large teams die off
+
+I haven't seen a team of more than 4 people actually survive and succeed in it's original form.
+Grafting extra founders on top of a startup because it seems to be going somewhere usually ends in disaster (Lumos example).
+> And there's another factor involved, which is that you can divide our industry into two kinds of people: those who want to go work for a company to make it successful, and those who want to go work for a successful company. Netscape's early success and rapid growth caused us to stop getting the former and start getting the latter. 
+[Jamie Zawinski](http://www.jwz.org/gruntle/nomo.html)
+The good news is that it usually doesn't matter in Velocity because no actual ownership structure has been established. But if you want to let people you're unsure about help, make sure that you don't actually rely on them delivering.
+If you do make it to incorporation, vest everyone, with a nice 8+ month cliff. You'll thank me later.
+
+## Velocity/University is great for building good team dynamics
+
+Taking CS452 with Ronuk helped us figure out how to best work together, how to avoid large problems.
+Working on UpPhoto helped cement the eventual Crouton Labs team, which led to much asskicking on the technical side (We still failed because we didn't have a business oriented founder and so had to learn that stuff from scratch)
+
+## Good Business cofounders are hard to find
+
+- Harder to get experience when young.
+- More varied skill set.
+
+# You need to get much better at whatever you'll be doing
+
+There's no room for specialists. We usually divide into two categories: Programmer/Business person. Sometimes you have a dedicated designer.
+
+## Programmers
+
+You'll almost certainly need:
+- Backend web development
+- Basic Front end web development (Html css, some basic javascript)
+- Mobile development
+- Ops stuff (deploying servers, system administration, and the like)
+
+Other stuff that's often useful:
+- Javascript wizardry (rich web apps are almost universal now).
+- Some data processing frameworks (Map reduce, [Storm](http://storm-project.net/).
+- Website scraping (Even if you don't use it for content, many startups have used it to gather a list of potential customer contact info).
+
+## Designers
+
+Learn CSS, being able to implement your vision is often a real time saver for the team, as you can try and evaluate changes in a closed loop, without involving someone else.
+Talk to users, a lot. The more you understand their actual behaviour, the better off you'll be.
+
+## Business people
+
+Unfortunately your role is often a hodgepodge of unrelated responsibilities. Some overlooked but vital stuff:
+- Domain expertise. Know the space you're entering completely.
+- Talk to users, figure out what they want. It's especially important to do so when no one on the team is actually part of the target market.
+
+# Parting thoughts
+Don't give up. It's supposed to be hard.
