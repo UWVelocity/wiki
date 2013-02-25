@@ -59,8 +59,10 @@ The smaller the proportion of coders, the longer it takes to ship that initial p
 
 I haven't seen a team of more than 4 people actually survive and succeed in it's original form.
 Grafting extra founders on top of a startup because it seems to be going somewhere usually ends in disaster (Lumos example).
+
 > And there's another factor involved, which is that you can divide our industry into two kinds of people: those who want to go work for a company to make it successful, and those who want to go work for a successful company. Netscape's early success and rapid growth caused us to stop getting the former and start getting the latter. 
 [Jamie Zawinski](http://www.jwz.org/gruntle/nomo.html)
+
 The good news is that it usually doesn't matter in Velocity because no actual ownership structure has been established. But if you want to let people you're unsure about help, make sure that you don't actually rely on them delivering.
 If you do make it to incorporation, vest everyone, with a nice 8+ month cliff. You'll thank me later.
 
@@ -81,6 +83,7 @@ There's no room for specialists. We usually divide into two categories: Programm
 ## Programmers
 
 You'll almost certainly need:
+
 - Backend web development
 - Basic Front end web development (Html css, some basic javascript)
 - Mobile development
@@ -99,6 +102,7 @@ Talk to users, a lot. The more you understand their actual behaviour, the better
 ## Business people
 
 Unfortunately your role is often a hodgepodge of unrelated responsibilities. Some overlooked but vital stuff:
+
 - Domain expertise. Know the space you're entering completely.
 - Talk to users, figure out what they want. It's especially important to do so when no one on the team is actually part of the target market.
 
