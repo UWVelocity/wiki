@@ -90,6 +90,7 @@ You'll almost certainly need:
 - Ops stuff (deploying servers, system administration, and the like)
 
 Other stuff that's often useful:
+
 - Javascript wizardry (rich web apps are almost universal now).
 - Some data processing frameworks (Map reduce, [Storm](http://storm-project.net/).
 - Website scraping (Even if you don't use it for content, many startups have used it to gather a list of potential customer contact info).
