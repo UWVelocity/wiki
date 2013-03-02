@@ -1,4 +1,6 @@
-# Design Considerations (please add your own as you experiment and discover things):
+# Design Considerations
+
+Please add your own as you experiment and discover things!
 
 Reduce print speed if your object is tall and thin, to prevent the print head from knocking the part over mid print.
 
@@ -6,6 +8,8 @@ Place multiple parts close together to reduce build time.
 Increase layer height to reduce build speed (but decrease quality)
 
 Best temperature seems to be 235. Default is 230, some of the default parts use 240, some people recommend 220.
+
+Some parts can be difficult to remove. Try to make sure you have some leverage to pull the part off when designing something.
 
 # Repair/Maintenance:
 
