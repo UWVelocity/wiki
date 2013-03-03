@@ -34,6 +34,75 @@ Please add your own as you experiment and discover things!
 
 - Add scaffolding to help hold up overhangs
 
+# Wings3D
+
+## Terms
+
+LMB - right mouse button
+MMB - middle mouse button
+RMB - right mouse button
+
+Basic usage of Wings 3D: create a part using RMB and picking a basic shape (when in doubt, use a cube) then edit your model. If your model is symmetrical, use a virtual mirror (tools menu)
+Use the information line in the bottom to get a feel for what is going on. When making a modification, press tab to use numeric input.
+
+To change hotkeys, put your mouse on a command and press "/" then choose your key. Read the information line for more instructions.
+
+## Changing your view
+
+Move view around: MMB
+Stop moving view: LMB
+Focus on X: X
+Focus on Y: Y
+Focus on Z: Z
+Switch to Wireframe mode: W
+Center camera on selection: A
+
+## Selecting things
+
+Deselect all: Space
+Select vertexes: V
+Select edges: E
+Select faces: F
+Select bodies: B
+
+Egde loop and edge ring are important ways to select, but require you to set your own hotkeys. I use L and R
+
+## Modifying things
+
+Almost all modification commands require you to set up your own hotkeys
+
+## Modifying faces
+
+Move normal: moves the face along its normal (http://en.wikipedia.org/wiki/Surface_normal)
+Move free: moves in the plane of the camera
+Move X: moves in x direction, etc.
+Most common move is move normal, so I made M the hotkey for that. 
+
+Other modifications to experiment with:
+
+Scale
+Extrude
+Intrude
+Bevel
+Bridge
+Lift
+Put on
+Collapse (can interfere with edge loop/edge ring, try to avoid)
+Smooth (usually select and entire body first)
+
+## Modifying edges
+
+Most edge modifications work best on an edge loop or edge ring
+
+Slide
+Connect (edge ring)
+Circularize (edge loop)
+
+## Modifying vertexes
+
+Free move
+Bevel
+
 # Repair/Maintenance
 
 The thermocouple can be disconnected. If this happens, remove the motherboard cover, and reconnect the adjacent red and yellow leads.
