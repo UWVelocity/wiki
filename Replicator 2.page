@@ -1,15 +1,38 @@
+# Printing Process
+
+1. Design your model in Wings3D or other modelling software
+2. Export your model to the .stl or .obj file format
+3. Add the part (and potentially other parts) to a new thing in MakerWare
+4. Layout and scale your parts in MakerWare, keeping in mind the info in the design considerations section
+5. Export the file from MakerWare to a .x3g file, again keeping in mind the design considerations
+
 # Design Considerations
 
 Please add your own as you experiment and discover things!
 
-Reduce print speed if your object is tall and thin, to prevent the print head from knocking the part over mid print.
+## When designing parts in Wings3D or other software
 
-Place multiple parts close together to reduce build time.
-Increase layer height to reduce build speed (but decrease quality)
+- Avoid large holes or overhangs. These can bend over while the object is still printing, which makes the print fail at worst and look ugly at best. How large is bad? That will require some experimentation.
 
-Best temperature seems to be 235. Default is 230, some of the default parts use 240, some people recommend 220.
+- Tall thin pieces might fall over during the print. Try to print as a flat wide piece instead.
 
-Some parts can be difficult to remove. Try to make sure you have some leverage to pull the part off when designing something.
+## When laying out
+
+- Place multiple parts close together to reduce build time
+
+## When exporting
+
+- Export for Replicator 2
+
+- Increase layer height to reduce build time, but decrease quality
+
+- Reduce number of shells to reduce build time, but decrease sturdiness. Use at least 2 shells
+
+- The default temperature is 230, but some of the example parts use 240. I have also seen recommendations of 220. Don't go below 220, or above 250. I tend to use 235
+
+- Add a raft to make parts easier to remove
+
+- Add scaffolding to help hold up overhangs
 
 # Repair/Maintenance
 
