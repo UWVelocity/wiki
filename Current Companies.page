@@ -54,7 +54,7 @@ Description
 
 #re:me
 Team
-:    Yevgeny Chertoc
+:    Yevgeny Chertoc, Carlo Barraco
 Description
 :    re:me automatically creates a todo list of messages that you need to respond to with only the essential information. if you respond to a message, the message is cleared from the list, if an important message is sent to you, it gets added to the list. no other messages are shown. This way, people can look at the list and not have to deal with the mental real estate of having to remember to respond. re:me works with your native text messaging application, so that this way you don't have to change your habits. Using re:me you will never forget to respond to another text message again.
 
@@ -153,3 +153,15 @@ Team
 :    Terrance Kwok, Shubham Datta, David Hu, Sandy Wu, Jamie Wong
 Description
 :    Flow lets you plan courses and see what your friends are taking!
+
+#Projexity
+Team
+:    Ghazal Badiozamani, Marisa Bernstein, Tyler Freedman, Jonathan Koff, Nicolas Koff
+Description
+:    Projexity allows you to fund, design, and help build projects in your neighbourhood. It's an online one-stop shop for getting urban projects off the ground.
+
+#Carted
+Team
+:   Jeffrey Morgan, Michael Chiang
+Description
+:   Carted builds mobile applications for retail stores to improve their customer engagement using interactive promotions.
