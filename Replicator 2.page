@@ -36,7 +36,11 @@ Please add your own as you experiment and discover things!
 
 ## When printing
 
-You may wish to pause after each of the first few layers and flatten the model with a heat gun if it is lifting up anywhere
+- You may wish to pause after each of the first few layers and flatten the model with a heat gun if it is lifting up anywhere
+
+- Print large models on the acrylic side of the build platform, and use a raft. This will prevent the tape from getting torn, and help the model stick to the platform
+
+- If your model has any columns, you may want to monitor the build while the column is printing, and if it looks weak, reinforce it in the middle by pausing the print.
 
 # Wings3D
 
