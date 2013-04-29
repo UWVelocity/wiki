@@ -1,10 +1,10 @@
-1. Using elance for emails
+#Using elance for emails
 
 I pay $40-50 for people to go through Couchsurfing & Airbnb and get me 100 emails of their members. This way I can contact them outside of the site, not breaking their terms of service, and convert them to ours.
 
 This is very similar to Fraser's LinkedIn hack, just a bit different source for us. In most situations, you can find some way of doing this.
 
-2. Highrise + Rapportive + ToutApp for Cold Emailing
+#Highrise + Rapportive + ToutApp for Cold Emailing
 
 Once we receive the emails from our workers on Elance, we upload them to highrise (filters out duplicate emails) and check them manually with Rapportive. Any CRM should do here, but rapportive is good for learning more about them. Once we're ready to send them out, we'll use the web interface of toutapp with our templates. This sends the emails through your gmail (so no via mailserve1.something.com at the top) and has open/click tracking. We'll usually send our batches using 2 different templates and compare the effectiveness. 
 
@@ -13,7 +13,7 @@ Interestingly enough, we barely customize the emails anymore. Our template has e
 Right now our best template converts at 72% opens, 51% clickthroughs. And that's with imperfect tracking (it uses images to track). It's actually not even that great of an email, but it gets the job done and the conversation started.
 
 The template:
-
+<blockquote>
 Hi {{first_name}},
 
 First off, I wanted to commend you on your Couchsurfing profile. I run a travel website and when I went searching for people in {{destination}}, your profile and reviews really jumped out at me as being warm and helpful!
@@ -23,8 +23,8 @@ The reason I'm getting in touch is that I wanted to see if you're interested in 
 If you're interested in learning more, let me know! You can also head to our site, Tripzaar, if you want to check it out.
 
 Thanks!
+</blockquote>
 
 
-3. Get them on a Call
-
+#Get them on a Call
 If you can get them on a call, your close rates skyrocket. We play the "part of our verification process is to get on a quick call with you" card, but I'm sure there's other ways to do it, e.g. "I'm on the road right now with shoddy internet, can I give you a quick call?" that would probably do the same thing.
