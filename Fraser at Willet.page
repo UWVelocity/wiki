@@ -1,0 +1,19 @@
+#Finding Customers via Reverse IP Lookup (hattip Phil McKegney)
+
+*If* your potential customers significantly overlap with other web software that offers hosted sites, you can often get a list of them for very cheap using a reverse IP lookup from DomainTools.  Examples:
+
+Shopify customers have a *.myshopify.com subdomain
+myshopify.com -> 204.93.213.40 -> reverse IP lookup gets you a 25k+ list of potential customers
+
+Desk.com customers have a *.desk.com subdomain
+desk.com -> 205.251.197.73 -> reverse ip lookup ...
+
+#Getting Email Addresses For Cold Emailing
+
+We use LinkedIn to find people (works really well for business-type jobs). We get the companies email address format from Jigsaw.  Use Rapportive to double check that its right / iterate if its not.
+
+#Good Cold Emails
+
+Email is 1 or 2 personalized sentences with a 3 page "specific pain + vague solution" pdf attached gets strong responses (note: we tailor decks by industry, but have not seen a stronger response if we tailor it to the specific company)
+
+Always reference meeting / working with their direct competitors (...tell a little fib if you have to).  The lift in response rate is dramatic
