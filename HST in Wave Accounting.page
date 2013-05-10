@@ -1,0 +1,18 @@
+Log into Wave Accounting and select reports
+Select Sales Tax Report
+Select time period matching HST submission period
+Select Show Audit Report
+
+Find the Remit HST Tax Owed Line (it should be a credit).  For example, (113.98)
+It will be in the LEFT HAND SIDE of the Receivable columns.
+
+Now, add that number to the total (of the same column) Total Receivable Tax at the bottom (eg. 79.99) to get the total ITC credit for the form. (e.g 193.97).  In english, this means the same thing as saying the amount of tax I have paid out.
+
+Now, for the HST form itself.
+Line 101 - Total Sales and Revenue without HST included (e.g. $24,000)
+Line 105 - Total HST collected on my sales (e.g. $3,120)
+Line 108 - Total ITC Credit from the calculation above (e.g. $
+
+All other lines should be empty on the form.
+
+Always date the cheque for the 25th of the month to ensure they have them for the end of the month
