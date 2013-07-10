@@ -1,9 +1,19 @@
-There are two separate wired networks in the residence:
+There are two separate networks in the residence:
 
-- The resnet network that you can access from your room.
-- The common network, composed of the wall plugs in the Great Hall, Device Lab & Conference Room, and the 'Christophe' wireless network.
+- The wired resnet network that you can access from your room. This gives IPv4 addresses in the 129.97.224.0/24 range. These are routable on the public internet (!) so make sure you have a firewall enabled.
+- The wireless "eduroam" network. This gives IPv4 addresses in the 172.0.0.0/8 range. These are behind NAT (because the number of Wi-Fi enabled laptops and cell phones is Too Damn High).
 
-They are completely separate, and maintained by different people entirely.
+Both of these are maintained by IST.
+
+# Exceptions
+- There is a wired port connected to the Xerox printer in the Maker Lab. This port issues IP addresses in the "eduroam" IP address range so that students may print wirelessly. Do not connect your laptop to this port.
+- There is a student-donated Buffalo 802.11a/b/g/n router in the Great Hall, broadcasting the "Christophe" SSID. This wireless network issues IPv4 addresses in the wired resnet range, as well as IPv6 addresses in the 2001:4830:1600:847d::/64 range. This network is deprecated, and transmitting functions are planned to be disabled in a future term to free up spectrum for planned eduroam upgrades.
 
 # Troubleshooting
-If the internet access on the Christophe wireless network breaks (this occurs often), take the white D-Link router below the TV and unplug/replug its power cable. If problems persist, or if the wired common network breaks, inform christophe.biocca@gmail.com
+- If network access on the Christophe network breaks, unplug/replug the power cable. Then,
+
+    $ ssh root@2001:4830:1600:847d::1
+
+    root@OpenWrt:~# aiccu start
+
+The password on the router is "velocity". Do NOT repeat these steps if "aiccu start" fails to start the IPv6 connection; it can get us banned from SixXS. Instead, disable IPv6 with "/etc/init.d/radvd stop" and contact thenewme91@gmail.com or m9chang@uwaterloo.ca for assistance.
