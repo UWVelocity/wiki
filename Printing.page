@@ -1,9 +1,14 @@
 Here's how you print for free around here:
 
-1. Connect to the 'Christophe' network (no password), or plug into the sockets in the great hall, device lab or conference room. Disconnect from any other networks.
-2. [http://192.168.0.100/print.htm](http://192.168.0.100/print.htm). If this link doesn't work, you're probably not correctly connected (See [Network]()).
+1. Connect to 'eduroam', 'Christophe', or the wired network.
+2. [http://172.16.53.98/print.htm](http://172.16.53.98/print.htm). If this link doesn't work, you're probably not correctly connected (See [Network]()).
 3. Upload file, set settings. Always use PDF for file type for best results (others are spotty/will ruin your life).
 4. Input paper into large Xerox multifunction printer (top tray aptly named Tray 1) as needed.
 
-Disclaimer: there isn't always paper available for free. This may
-change in the future, but for now, BYOP.
+Advanced users may set up the printer on their local machine using the "Xerox for WorkCentre 5300", or any standard "PCL6" driver.
+
+The VeloCity team sometimes buys us paper for the printer at its own discretion; ask your residence ambassadors for details. They may choose to stop providing it for any reason (including excessive usage), so please bring your own paper if you print a lot and/or can afford to do so.
+
+# Troubleshooting
+
+- The printer gets its IP address via DHCP. You can print a configuration report and check the current IP address by using the front panel to check if it is misconfigured. Do not use the IPv6 address the printer reports (starts with "ff80::") as it's a "link-local" address and won't work on most of the network.
