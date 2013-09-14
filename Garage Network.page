@@ -1,0 +1,11 @@
+There are three separate networks in the VeloCity Garage:
+
+- TenantWiFi - this is the wireless network provided only to companies who are located in the Communitech Hub.  To access the printer, you must be located on TenantWiFi or the wired network.  Password: hypnotoad
+- Wired Network - there are ethernet ports in hundreds of locations around the VeloCity Garage.  By default, an ethernet connection will be disabled and must be enabled by requesting access from Communitech.  Send a message to [Communitech Help Desk](mailto:helpdesk@communitech.ca) listing the number of the ethernet port to enable it.
+- Tannery WiFi - this is the open wireless network for guests at the VeloCity Garage.  No password required.
+
+# Wireless Network Conflicts
+- If you decide to run your own wireless router for whatever reason (Chromecast, file sharing amongst your team, etc) then we simply request that you do NOT use the following bands and channels:
+
+# Troubleshooting
+- If you are experiencing issues with the network please contact the [Communitech Help Desk](mailto:helpdesk@communitech.ca).  Ideally, you should include your computer's MAC address in your report to help Communitech look through their logs.
