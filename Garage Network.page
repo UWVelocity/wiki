@@ -6,8 +6,8 @@ There are three separate networks in the VeloCity Garage:
 
 # Wireless Network Conflicts
 - If you decide to run your own wireless router for whatever reason (Chromecast, file sharing amongst your team, etc) then we simply request that you do NOT use the following bands and channels:
-* 2.4 GHz Channel 6
-* 5.0 GHz Channel 48
+      2.4 GHz Channel 6
+      5.0 GHz Channel 48
 
 # Troubleshooting
 - If you are experiencing issues with the network please contact the [Communitech Help Desk](mailto:helpdesk@communitech.ca).  Ideally, you should include your computer's MAC address in your report to help Communitech look through their logs.
