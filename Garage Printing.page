@@ -1,0 +1,27 @@
+Below are the steps to follow to get the printer set up on your computer. Each company will receive a printer code during their setup for the VeloCity Garage.  Contact the Manager, Programs if you have lost your code.
+ 
+Windows 
+Follow the video here: http://www.youtube.com/watch?v=jwG6-IcSGfQ
+Driver Download: Go to Xerox.com and download the driver for the ColorQube 9203 printer.
+IP Address for the printer: 10.172.2.2
+Printer Code: [printing code]
+ 
+Mac OS X
+Sadly, this is substantially more complicated.  My steps are for Lion so your mileage may vary on previous versions of the OS.  
+ 
+1. Download the drivers on xerox.com for the ColorQube 9203 printer.  Download the most recent driver (Feb 2012 version).
+2. Install the drivers and during the printer set up process of the installer add the printer using the IP address option (icon on the right) with the IP address 10.172.2.2 and ensure that the software finds the printer.  You MUST be on the TenantWiFi network or the wired network to access the printer.
+3. Once the installer has completed, open up TextEdit and create a test document to print.
+4. Select File -> Print.
+5. Pick the Xerox printer from the list.
+6. Select "Show Details" below the list on the left hand side if there is no TextEdit drop down menu.
+7. Select "TextEdit" drop down menu and select "Xerox Features"
+8. Select Paper/Output drop down and click "Advanced"
+9. Turn Banner sheet to off (optional).
+10. Select the "Configuration" option indicating "accounting"
+11. Once inside the new window select the "Xerox Standard Accounting or Auditron" accounting option.
+12. Set it to "Do not prompt"
+13. Set the "Default User ID" to [printing code]
+14. Select ok and go back to your previous printer dialog.  Ensure in the "Presets" drop down that you set it to "Save Current Settings" so that you don't have to do this every single time that you go to print.
+15. Save the current settings as whatever name you want and set it for this printer (not all printers).
+ 
