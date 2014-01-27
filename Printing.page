@@ -2,7 +2,7 @@ Here's how you print for free around here:
 
 1. Connect to 'eduroam', 'Christophe', or the wired network.
 2. [http://172.16.53.98/print.htm](http://172.16.53.98/print.htm). If this link doesn't work, you're probably not correctly connected (See [Network]()).
-3. Upload file, set settings. Always use PDF for file type for best results (others are spotty/will ruin your life).
+3. Upload file, set settings. Always use PDF for file type for best results. (Others are spotty and/or will ruin your life. Do **NOT** upload Word documents to the printer; it does not understand them and will output pages of gibberish.)
 4. Input paper into large Xerox multifunction printer (top tray aptly named Tray 1) as needed.
 
 Advanced users may set up the printer on their local machine using the "Xerox for WorkCentre 5300" driver, or any standard "PCL6" driver.
