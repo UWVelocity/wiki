@@ -1,4 +1,4 @@
-Here's how you print for free around here:
+The printer is located in the Device Lab, and is also able to scan and copy. This is how you connect to the printer:
 
 1. Connect to 'eduroam', 'Christophe', or the wired network.
 2. [http://172.16.53.98/print.htm](http://172.16.53.98/print.htm). If this link doesn't work, you're probably not correctly connected (See [Network]()).
@@ -6,6 +6,35 @@ Here's how you print for free around here:
 4. Input paper into large Xerox multifunction printer (top tray aptly named Tray 1) as needed.
 
 Advanced users may set up the printer on their local machine using the "Xerox for WorkCentre 5300" driver, or any standard "PCL6" driver.
+
+New: This updated method will allow you to 'add' this printer to your computer's Printers list, and print wirelessly from anywhere on campus (you need to be on eduroam).
+
+**WINDOWS**:
+1. Download the proper **PCL6** driver for your system from [this page](http://www.support.xerox.com/support/global- printer-driver/downloads/enus.html?operatingSystem=win8x64).
+2. Install the driver.
+3. Go to 'Add a Printer' on Control Panel. Click on 'Add a printer'.
+4. Click on 'Add a network, wireless or Bluetooth printer'.
+5. Click on 'The printer that I want isn’t listed'.
+6. Click on the 'Add a printer using a TCP/IP address of hostname' option, then Next.
+7. Specify the following fields:
+- Device type: TCP/IP Device
+- Hostname or IP address: 172.16.53.98
+- Port name: 172.16.53.98
+Check off the 'Query the printer and automatically select the drive to use' option.
+8. If it asks you which driver you should use, pick the most up-to-date PCL6 driver found. If you see a dialogue window that says 'Use current driver' or 'Replace old drivers', select 'Replace old drivers'.
+
+**MAC OS X**:
+1. Download the driver or WorkCentre 5300 [here](http://www.support.xerox.com/support/workcentre -5300-series/file-download/enus.html?operatingSystem=macosx108&fileLanguage=en&contentId=121426&from=downloads&viewArchived=false).
+2. Run the installer, using default settings until 'Wireless Printer Setup'.
+3. Click 'Advanced Search...' on the 'Select a Printer' screen.
+4. Pick the middle option to manually enter an IP address.
+Use this as the IP of the printer: 172.16.53.98.
+5. Select 'Search'. After scanning for a bit, you should see a success window. 
+
+If you have any troubles with the setup instructions, contact the Residence Help Desk:
+- email: reshelp@uwaterloo.ca
+- phone: 519-888-4567 x33538
+- in person: V1 Central Complex.
 
 The VeloCity team sometimes buys us paper for the printer at its own discretion; ask your residence ambassadors for details. They may choose to stop providing it for any reason (including excessive usage), so please bring your own paper if you print a lot and/or can afford to do so.
 
