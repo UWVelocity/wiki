@@ -1,0 +1,29 @@
+In short this email goes over why wikis are awesome and how to add content to the wiki with a step by using an example.
+
+##Why Wikis Are Awesome
+Wikis are awesome since we can collaborate on knowledge and information we find and reduces people asking the same questions via email (I hate email spam). If you find relevant information which the group could benefit from, you should put the info under a section in the wiki.  Keep the content managed is important, but use your judgement on where things belong.
+
+##Creating new pages for content
+Creating pages are simple.  In this email I will walk through an example adding tips about crowdfunding.  I attended a talk about crowdfunding done by indiegogo and someone sent me really awesome notes.  Since people could find the information useful, I decided I wanted to add a page with the notes.
+
+##Step 1: Find the correct section
+Since crowding funding is a subsection of funding, it would belong in the funding section.  I navigated to the funding section and I added a new heading called Crowdfunding using the following in the edit tab:
+
+'#Crowdfunding'
+
+ Under the large Crowdfunding section, other people could add their own links, so I then wanted to make a page with general tips which would reside internally on the wiki.
+
+##Step 2: Creating a new wiki page
+Creating a new wiki page involves two simple steps.
+
+##Step 2A: Creating a backlink to the new page
+Click edit and use the following format:
+[Page Name]()
+
+In my example I created:
+[Crowdfunding Tips]()
+
+##Step 2B: Creating the new page and adding content
+Since that created a empty link, when you click it it will ask if you want to create as new link. You can then go ahead and make the new page and add your content.
+
+For all the markup and other related information, you can read the sidebar for info or you can just look at what other pages use as an example.  I hope you found this useful and will start contributing to the Wiki :)
