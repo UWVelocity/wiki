@@ -1,3 +1,13 @@
+# The lazy shortcut
+
+1. Make sure you're on Tenant Wifi (or plugged into the wall).
+2. [http://10.172.2.2/print/index.php](http://10.172.2.2/print/index.php)
+3. Give it a PDF or PostScript file. Anything else has a non-zero chance of just printing garbage.
+4. Sometimes you may need to specify that the paper size is indeed Letter (8.5"x11").
+5. Submit Job.
+
+# Setting the printer up on your OS.
+
 Below are the steps to follow to get the printer set up on your computer. Each company will receive a printer code during their setup for the VeloCity Garage.  Contact the Manager, Programs if you have lost your code.
  
 Windows 
