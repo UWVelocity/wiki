@@ -1,31 +1,40 @@
-**Average Salaries by Discipline**		
+#Average Salaries by Discipline	
+
+Discipline                   |    2013    |     2012     |
+-----------------------------|------------|--------------|
+Math & Sciences	             | $42,731.00 |   $42,355.00 |
+Computer Science             | $58,547.00 |   $60,038.00 |
+Engineering	             | $62,062.00 |   $60,639.00 |
+Humanities & Social Sciences | $37,791.00 |   $36,824.00 |
+Business	             | $55,635.00 |   $51,541.00 |
+Communications	             | $43,835.00 |   $42,286.00 |
+Education	             | $40,600.00 |   $40,700.00 |
 		
+#Engineering Disciplines
+
+Engineering Discipline      |   2014      |
+----------------------------|-------------|
+Electrical	            |  $52,903.00 |	
+Mechanical	            |  $49,232.00 |	
+Civil	                    |  $51,049.00 |	
+Chemical	            |  $52,454.00 |	
+Materials	            |  $57,393.00 |	
+Computer Software	    |  $73,935.00 |	
 		
-**Discipline**	                **2013**   &    **2012**  
-Math & Sciences	               $42,731.00,     $42,355.00  
-Computer Science               $58,547.00,     $60,038.00  
-Engineering	               $62,062.00,     $60,639.00  
-Humanities & Social Sciences   $37,791.00,     $36,824.00  
-Business	               $55,635.00,     $51,541.00  
-Communications	               $43,835.00,     $42,286.00  
-Education	               $40,600.00,     $40,700.00  
-		
-**Engineering Disciplines**	**2014**  	
-Electrical	               $52,903.00  	
-Mechanical	               $49,232.00  	
-Civil	                       $51,049.00  	
-Chemical	               $52,454.00  	
-Materials	               $57,393.00  	
-Computer Software	       $73,935.00  	
-		
-**Sales & Marketing**	        **2014**  	
-Marketing Coordinator	       $33,948.00  	
-Social Media Manager	       $32,590.00  	
-Customer Sales Rep	       $30,925.00  	
-Project Coordinator	       $41,823.00  	
-		
-**Technology**	                **2014**  	
-Computer Programmer	       $52,779.00  	
-Web Developer	               $43,434.00  	
-Systems Engineer	       $59,173.00  	
-Software Developer	       $52,831.00  	
+#Sales & Marketing
+
+Sales & Marketing           | 2014        |
+----------------------------|-------------|
+Marketing Coordinator	    |  $33,948.00 |
+Social Media Manager	    |  $32,590.00 |	
+Customer Sales Rep	    |  $30,925.00 |	
+Project Coordinator	    |  $41,823.00 |	
+
+#Technology
+
+Technology                  |  2014       |
+----------------------------|-------------|
+Computer Programmer	    |  $52,779.00 |	
+Web Developer	            |  $43,434.00 |	
+Systems Engineer	    |  $59,173.00 |	
+Software Developer	    |  $52,831.00 |
