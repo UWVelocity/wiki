@@ -19,7 +19,7 @@ Printer Code: [printing code]
 Mac OS X
 Sadly, this is substantially more complicated.  My steps are for Lion so your mileage may vary on previous versions of the OS.  
  
-1. Download the drivers on xerox.com for the ColorQube 9203 printer.  Download the most recent driver (Feb 2012 version).
+1. Download the drivers on xerox.com for the Workcentre 7845 printer.  Download the most recent driver (May 2015 version).
 2. Install the drivers and during the printer set up process of the installer add the printer using the IP address option (icon on the right) with the IP address 10.172.2.2 and ensure that the software finds the printer.  You MUST be on the TenantWiFi network or the wired network to access the printer.
 3. Once the installer has completed, open up TextEdit and create a test document to print.
 4. Select File -> Print.
