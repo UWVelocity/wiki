@@ -15,6 +15,13 @@ Follow the video here: http://www.youtube.com/watch?v=jwG6-IcSGfQ
 Driver Download: Go to Xerox.com and download the driver for the ColorQube 9203 printer.
 IP Address for the printer: 10.172.2.2
 Printer Code: [printing code]
+
+**Windows 8/10**  (If the above instructions don't work for you)<br><br>
+1. Download and install Xerox printer installer/driver [here](http://www.support.xerox.com/support/workcentre-7800-series/file-download/enus.html?operatingSystem=win10x64&fileLanguage=en&&associatedProduct=WorkCentre-78xx-built-in%20controller&contentId=127065&from=downloads&viewArchived=false)<br> 
+2. During install select printer at 10.172.2.2<br>
+3. When asked for a user ID fill in 4020 and ignore other fields, finish install<br>
+4. Ignore produce registration window<br>
+5. Verify test page has been printed.<br><br>
  
 Mac OS X
 Sadly, this is substantially more complicated.  My steps are for Lion so your mileage may vary on previous versions of the OS.  
