@@ -1,44 +1,43 @@
-# The lazy shortcut
+# Velocity Garage Printing Instructions
 
-1. Make sure you're on Tenant Wifi (or plugged into the wall).
-2. [http://10.172.2.2/print/index.php](http://10.172.2.2/print/index.php)
-3. Give it a PDF or PostScript file. Anything else has a non-zero chance of just printing garbage.
-4. Sometimes you may need to specify that the paper size is indeed Letter (8.5"x11").
-5. Submit Job.
-
-# Setting the printer up on your OS.
-
-Below are the steps to follow to get the printer set up on your computer. Each company will receive a printer code during their setup for the VeloCity Garage.  Contact the Manager, Programs if you have lost your code.
+Below are the steps to follow to get the printer set up on your computer. 
  
-Windows 
-Follow the video here: http://www.youtube.com/watch?v=jwG6-IcSGfQ
-Driver Download: Go to Xerox.com and download the driver for the ColorQube 9203 printer.
+Driver Download: Go to Xerox.com and download the driver for the Xerox 7845 printer.
 IP Address for the printer: 10.172.2.2
-Printer Code: [printing code]
-
-**Windows 8/10**  (If the above instructions don't work for you)<br><br>
-1. Download and install Xerox printer installer/driver [here](http://www.support.xerox.com/support/workcentre-7800-series/file-download/enus.html?operatingSystem=win10x64&fileLanguage=en&&associatedProduct=WorkCentre-78xx-built-in%20controller&contentId=127065&from=downloads&viewArchived=false)<br> 
-2. During install select printer at 10.172.2.2<br>
-3. When asked for a user ID fill in 4020 and ignore other fields, finish install<br>
-4. Ignore produce registration window<br>
-5. Verify test page has been printed.<br><br>
+Printer Code: 4020
  
-Mac OS X
-Sadly, this is substantially more complicated.  My steps are for Lion so your mileage may vary on previous versions of the OS.  
+1. Go to http://www.support.xerox.com/support/enus.html and enter the printer model number: 7845
+2. Click drivers & downloads under "with built-in controller"
+3. Windows (Click web-based Print driver Installer)
+3. OSX (click Mac OSX print driver installer package) 
+4. Follow instructions to install. When menu comes up searching for a printer click the box near the top that isn't selected
+5. Enter the IP address and click search
+6. Click next, then Install.
  
-1. Download the drivers on xerox.com for the Workcentre 7845 printer.  Download the most recent driver (May 2015 version).
-2. Install the drivers and during the printer set up process of the installer add the printer using the IP address option (icon on the right) with the IP address 10.172.2.2 and ensure that the software finds the printer.  You MUST be on the TenantWiFi network or the wired network to access the printer.
-3. Once the installer has completed, open up TextEdit and create a test document to print.
-4. Select File -> Print.
-5. Pick the Xerox printer from the list.
-6. Select "Show Details" below the list on the left hand side if there is no TextEdit drop down menu.
-7. Select "TextEdit" drop down menu and select "Xerox Features"
-8. Select Paper/Output drop down and click "Advanced"
-9. Turn Banner sheet to off (optional).
-10. Select the "Configuration" option indicating "accounting"
+Windows:
+7. The drivers should now be installed and the printer finished, just the accounting code for your company remains.
+8. Find the printer and right click selecting printer properties.
+9. From this menu you should see Configuration Tab
+10. Under this tab select Accounting
 11. Once inside the new window select the "Xerox Standard Accounting or Auditron" accounting option.
 12. Set it to "Do not prompt"
-13. Set the "Default User ID" to [printing code]
-14. Select ok and go back to your previous printer dialog.  Ensure in the "Presets" drop down that you set it to "Save Current Settings" so that you don't have to do this every single time that you go to print.
-15. Save the current settings as whatever name you want and set it for this printer (not all printers).
+13. Set the "Default User ID" to 4020
+14. Save all settings and exit, you are done!
+ 
+Mac OS X
+7. Once the installer has completed, open up TextEdit and create a test document to print.
+8. Select File -> Print.
+9. Pick the Xerox printer from the list.
+10. Select "Show Details" below the list on the left hand side if there is no TextEdit drop down menu.
+11. Select "TextEdit" drop down menu and select "Xerox Features"
+12. Select Paper/Output drop down and click "Advanced"
+13. Turn Banner sheet to off (optional).
+14. Select the "Configuration" option indicating "accounting"
+15. Once inside the new window select the "Xerox Standard Accounting or Auditron" accounting option.
+16. Set it to "Do not prompt"
+17. Set the "Default User ID" to 4020
+18. Select ok and go back to your previous printer dialog.  Ensure in the "Presets" drop down that you set it to "Save Current Settings" so that you don't have to do this every single time that you go to print.
+19. Save the current settings as whatever name you want and set it for this printer (not all printers).
+ 
+Please share these instructions with your team and let the Operations Assistant know if you have any questions.
  
